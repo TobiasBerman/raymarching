@@ -11,5 +11,6 @@ Ensure GLEW and GLFW are discoverable by your compiler/linker and your working d
 - WASD - Move camera
 - Mouse - Look around
 - Esc - Exit
-
+## Screenshots
+![Mandelbulb screenshot](images/mandelbulb_1.png)
 
